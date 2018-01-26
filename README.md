@@ -1,5 +1,7 @@
 # Databricks Reference Apps
 
+> 本开源书 forked from [Databricks Reference Apps](https://github.com/databricks/reference-apps)，作者为 [databricks](https://github.com/databricks)，欢迎大家 star 原作者的 [repo](https://github.com/databricks/reference-apps)，以便获得最新更新，谢谢！
+
 At Databricks, we are developing a set of reference applications that demonstrate how to use Apache Spark.  This book/repo contains the reference applications.
 
 * View the code in the Github Repo here: [https://github.com/databricks/reference-apps](https://github.com/databricks/reference-apps)
